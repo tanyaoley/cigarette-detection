@@ -13,3 +13,9 @@
 3. [Ссылка на веса](https://drive.google.com/file/d/13NYV-xm8NcDX7-VyVWwKDozAy0k6UMep/view?usp=sharing)
 
 4. [Результаты предсказаний](https://drive.google.com/drive/folders/1Y_8s5aaGoi_vRa1VWOsjF6r6PMz3a_0x?usp=sharing)
+
+5. Запуск:
+
+```
+python path/to/detect.py --source img/video/path
+```
